@@ -9,12 +9,14 @@ FaGitAlt,
 FaGithub,
 FaFigma,
 FaNodeJs,
+FaJava
 } from "react-icons/fa";
 
 import {
 SiUnity,
 SiTailwindcss,
 SiFirebase,
+SiMongodb,
 SiExpress,
 SiMysql,
 SiPhp
