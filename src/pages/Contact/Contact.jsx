@@ -25,17 +25,17 @@ function Contact() {
 
           <div className="info-item">
             <FaEnvelope className="contact-icon"/>
-            <span>aminehamzaoui1925@gmail.com</span>
+            <span>ainurraftuzaki@gmail.com</span>
           </div>
 
           <div className="info-item">
             <FaPhone className="contact-icon"/>
-            <span>+213 XX XX XX XX</span>
+            <span>+62 813 5260 2516</span>
           </div>
 
           <div className="info-item">
             <FaMapMarkerAlt className="contact-icon"/>
-            <span>Algeria</span>
+            <span>Indonesia</span>
           </div>
 
         </div>

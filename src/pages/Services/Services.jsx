@@ -15,19 +15,19 @@ function Services(){
         <div className="service-card">
           <FaCode className="service-icon"/>
           <h3>Frontend Development</h3>
-          <p>I build modern and interactive websites using React, HTML, CSS, JavaScript, Node.Js, Php, MySql and Next.js.</p>
+          <p>Mengembangkan situs web modern dan interaktif menggunakan React, Next.js, JavaScript, HTML, dan CSS, serta didukung integrasi Node.js, PHP, dan MySQL.</p>
         </div>
 
         <div className="service-card">
           <FaPalette className="service-icon"/>
           <h3>UI Design</h3>
-          <p>Creating clean and modern user interfaces with focus on design and usability.</p>
+          <p>Merancang antarmuka pengguna yang bersih, estetis, dan intuitif dengan fokus utama pada kenyamanan serta kemudahan penggunaan (usability).</p>
         </div>
 
         <div className="service-card">
           <FaLaptopCode className="service-icon"/>
           <h3>Web Applications</h3>
-          <p>Building modern web applications with dynamic features and smooth performance.</p>
+          <p>Membangun aplikasi web modern dengan fitur dinamis, performa yang responsif, dan pengalaman pengguna yang mulus.</p>
         </div>
 
       </div>

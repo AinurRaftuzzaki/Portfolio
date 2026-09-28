@@ -40,12 +40,7 @@ function About() {
 
         <div className="text-about">
           <p>
-            Hi, I'm Amine, a passionate Frontend Developer and Computer Science student.
-            I enjoy building modern, responsive, and interactive web interfaces that provide
-            a great user experience. I focus on clean design, smooth animations, and writing
-            efficient code using modern web technologies. I'm always learning new tools and
-            improving my skills to create better digital products. My goal is to combine
-            creativity with technology to build websites that are both beautiful and functional.
+            Hai, saya Zaki! Saya seorang Frontend Developer dan mahasiswa Ilmu Komputer yang senang mengubah ide kreatif menjadi antarmuka web yang interaktif, cepat, dan nyaman digunakan. Bagi saya, menulis kode yang bersih, menambahkan animasi yang halus, serta mengeksplorasi teknologi baru adalah kunci untuk menghadirkan karya digital yang tidak hanya indah dipandang, tetapi juga solutif secara teknis.
           </p>
         </div>
 

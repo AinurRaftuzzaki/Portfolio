@@ -9,13 +9,13 @@ function Footer(){
 
       <div className="footer-container">
 
-        <p>© 2026 Amine Hamzaoui</p>
+        <p>© 2026 Ainur Raftuzzaki</p>
 
         <div className="social-icons">
 
-          <a href="#"><FaGithub/></a>
-          <a href="#"><FaLinkedin/></a>
-          <a href="#"><FaInstagram/></a>
+          <a href="https://github.com/AinurRaftuzzaki"><FaGithub/></a>
+          <a href="https://www.linkedin.com/in/ainur-raftuzzaki-4a09823a1/"><FaLinkedin/></a>
+          <a href="https://www.instagram.com/ainr_zky/"><FaInstagram/></a>
 
         </div>
 
